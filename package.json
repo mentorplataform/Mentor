@@ -1,0 +1,21 @@
+{
+  "name": "hackathon-ccr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Wellers0n/hackathon-ccr.git",
+  "author": "Wellerson <wellerson.moreira@intelie.com.br>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start-web": "",
+    "start-server": ""
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  },
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
