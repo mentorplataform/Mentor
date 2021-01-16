@@ -2,11 +2,18 @@
    <img src="./images/MentorApp.png" height="200px" />
 </p>
 <p>
-   <h1 align="center">Mentor Plataform</h1>
+   <h1 align="center">Mentor App</h1>
 <p/>
 
 ### Fullstack Typescript
-  
+  .......
+
+## Baixando o projeto em sua máquina
+
+- For clone the project `git clone https://github.com/Wellers0n/MentorApp.git`
+- Enter in the folder `cd MentorApp/`
+- To install project dependency: `yarn install`
+- After the installation of the dependencies `yarn start` in the default directory
 
 
 
