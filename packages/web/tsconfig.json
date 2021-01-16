@@ -1,0 +1,24 @@
+{
+    "extends": "./../../tsconfig.json",
+    "compilerOptions": {
+        "lib": [
+            "esnext",
+            "dom"
+        ],
+        "allowJs": false,
+        "checkJs": false,
+        "jsx": "react",
+        "outDir": "node_modules/.ts",
+        "baseUrl": ".",
+        "paths": {
+            "components/*": ["src/components/*"],
+            "pages/*": ["src/pages/*"],
+            "helpers/*": ["src/helpers/*"],
+            "styles/*": ["src/styles/*"],
+            "assets/*": ["src/assets/*"],
+          }
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
