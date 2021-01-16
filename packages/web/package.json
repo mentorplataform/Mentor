@@ -1,5 +1,5 @@
 {
-  "name": "web",
+  "name": "@apprende/web",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Wellerson",
@@ -8,7 +8,6 @@
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack-dev-server",
     "build": "cross-env NODE_ENV=production yarn webpack"
-      
   },
   "dependencies": {
     "@material-ui/core": "^4.11.2",

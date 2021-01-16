@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config",
+  "name": "@apprende/eslint-config",
   "version": "1.0.0",
   "main": ".eslintrc.js",
   "author": "Wellerson",
