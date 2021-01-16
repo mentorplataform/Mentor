@@ -12,12 +12,22 @@
   - Veja mais informação do [Website](https://github.com/mentorplataform/Mentor/blob/master/packages/web/)<br/>
   - Veja mais informação do [Server](https://github.com/mentorplataform/Mentor/blob/master/packages/server/)<br/>
 
+### O que você precisa para rodar em sua máquina ? 
+- É necessario ter `Yarn` em sua máquina para baixar as dependencias. [Yarn](https://classic.yarnpkg.com/en/docs/install/)
+- Precisamos do `NodeJs` para rodar o servidor. [NodeJs](https://nodejs.org/en/download/)
+- (Opcional) Se quiser baixar o `Mongodb` em sua máquina. [Mongodb](https://docs.mongodb.com/manual/administration/install-community/)
+
 ### Baixando o projeto em sua máquina
 
 - Para clonar o projeto rode esse comando: `git clone https://github.com/mentorplataform/Mentor.git`
 - Entre na pasta: `cd Mentor/`
 - Instalar todas as depedencias: `yarn install`
 - Depois de instalar as depencias tode `yarn start` no diretorio padrão.
+
+### Feedbacks
+
+Para mandar algum feedback, basta enviar para esse email [aplic.mentor@gmail.com](aplic.mentor@gmail.com)<br/>
+
 
 ### Tecnologias usadas
 
