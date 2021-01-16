@@ -1,10 +1,12 @@
 <p align="center">
-    <img src="./images/MentorApp.png" height="200px" style="border-radius:50%"/>
+   <img src="./images/MentorApp.png" height="200px" />
 </p>
-
 <p>
    <h1 align="center">Mentor Plataform</h1>
 <p/>
+
+## Fullstack Typescript
+  
 
 
 
