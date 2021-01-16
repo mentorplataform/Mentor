@@ -8,7 +8,7 @@
 ### Fullstack Typescript
   .......
 
-## Baixando o projeto em sua máquina
+### Baixando o projeto em sua máquina
 
 - For clone the project `git clone https://github.com/Wellers0n/MentorApp.git`
 - Enter in the folder `cd MentorApp/`
