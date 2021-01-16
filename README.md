@@ -2,11 +2,15 @@
    <img src="./images/MentorApp.png" height="200px" />
 </p>
 <p>
-   <h1 align="center">Mentor App</h1>
+   <h1 align="center">Mentor</h1>
 <p/>
 
-### Fullstack Typescript
-  .......
+### Fullstack
+  Estamos usamos typescript/javascript no front-end e back-end, assim unindo uma só tecnologia para trabalharmos de forma rápida e acessivel com o time.
+  Além disso estamos usando mongo como nosso banco de dados.
+  <br/>
+  - Veja mais informação do [Website](https://github.com/mentorplataform/Mentor/blob/master/packages/web/)<br/>
+  - Veja mais informação do [Server](https://github.com/mentorplataform/Mentor/blob/master/packages/server/)<br/>
 
 ### Baixando o projeto em sua máquina
 
