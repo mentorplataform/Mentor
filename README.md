@@ -16,6 +16,7 @@
 - After the installation of the dependencies `yarn start` in the default directory
 
 
+### Tecnologias usadas
 
 [ReactJS](https://reactjs.org/)<br/>
 [KoaJS](https://koajs.com/)<br/>
