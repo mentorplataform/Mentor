@@ -1,0 +1,52 @@
+{
+  "name": "@apprende/server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wellerson",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "nodemon --watch 'src/**/*' -e ts,tsx --exec babel-node ./src/index.js",
+    "server:build": "webpack --env.mode=dev",
+    "server:start": "nodemon dist/index.js",
+    "build:webpack": "npm run clear && webpack --env.mode=prod"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "kcors": "^2.2.2",
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0",
+    "koa-logger": "^3.2.1",
+    "koa-rest-cache": "^1.1.0",
+    "koa-router": "^10.0.0",
+    "mongoose": "^5.11.12"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "@babel/plugin-proposal-export-default-from": "^7.12.1",
+    "@babel/plugin-proposal-export-namespace-from": "^7.12.1",
+    "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
+    "@babel/plugin-syntax-async-generators": "^7.8.4",
+    "@babel/plugin-transform-async-to-generator": "^7.12.1",
+    "@babel/plugin-transform-runtime": "^7.12.10",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-typescript": "^7.12.7",
+    "@babel/register": "^7.12.10",
+    "@types/node": "^14.14.21",
+    "auto-reload-webpack-plugin": "^1.1.0",
+    "babel-loader": "^8.2.2",
+    "babel-node": "^0.0.1-security",
+    "babel-preset-env": "^1.7.0",
+    "dotenv": "^8.2.0",
+    "dotenv-safe": "^8.2.0",
+    "nodemon": "^2.0.7",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "webpack-merge": "^4.1.4",
+    "webpack-node-externals": "^2.5.2"
+  }
+}

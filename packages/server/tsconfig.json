@@ -1,0 +1,14 @@
+{
+    "extends": "./../../tsconfig.json",
+    "compilerOptions": {
+        "lib": [
+            "esnext"
+        ],
+        "allowJs": false,
+        "checkJs": false,
+        "outDir": "node_modules/.ts"
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
