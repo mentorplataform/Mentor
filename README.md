@@ -5,7 +5,7 @@
    <h1 align="center">Mentor</h1>
 <p/>
 
-### Fullstack
+### Mentor Plataform
   Estamos usamos typescript/javascript no front-end e back-end, assim unindo uma só tecnologia para trabalharmos de forma rápida e acessivel com o time.
   Além disso estamos usando mongo como nosso banco de dados.
   <br/>
