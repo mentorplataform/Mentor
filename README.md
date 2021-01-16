@@ -10,8 +10,8 @@
 
 ### Baixando o projeto em sua máquina
 
-- Para clonar o projeto rode esse comando: `git clone https://github.com/Wellers0n/MentorApp.git`
-- Entre na pasta: `cd MentorApp/`
+- Para clonar o projeto rode esse comando: `git clone https://github.com/Wellers0n/Mentor.git`
+- Entre na pasta: `cd Mentor/`
 - Instalar todas as depedencias: `yarn install`
 - Depois de instalar as depencias tode `yarn start` no diretorio padrão.
 
