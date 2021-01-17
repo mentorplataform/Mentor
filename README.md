@@ -4,11 +4,11 @@
 <p>
    <h1  align="center">Mentor</h1> 
 <p/>
-###Proposta
+### Proposta
 Mentor é um aplicativo que conecta mentores e alunos, ambos remunerados por patrocinadores que queiram apoiar os cursos. Com esta plataforma de conduções educacionais, temos por
 finalidade auxiliar na democratização e valorização do estudo e promover acesso à educação de qualidade.
 
-###Propósito
+### Propósito
 Nosso propósito é conectar pessoas para transformar o mundo por meio da aprendizagem pagando estes alunos e mentores.
 
 
@@ -22,7 +22,7 @@ Nosso propósito é conectar pessoas para transformar o mundo por meio da aprend
   
   ### Plano de desenvolvimento
   Através do uso de tecnologias open-source desenvolveremos uma plataforma online responsiva utilizando para interface do usuárioReactJS, arquitetura back-end em NodeJs, para
-armazenamento das informações bancos de dadosNoSQL implementados através de MongoDB.Pretendemos pesquisar bibliotecas já existentes
+armazenamento das informações bancos de dados NoSQL implementados através de MongoDB. Pretendemos pesquisar bibliotecas já existentes
 para desenvolvermos os algoritmos de pontuação
 e pesquisa, as funcionalidades de perguntas e
 respostas, a comunicação em vídeo interna ao
