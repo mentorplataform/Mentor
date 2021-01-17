@@ -1,5 +1,3 @@
-website
-
 Páginas:
   - `/login`:                 Página para se logar na plataforma;
   - `/registrar`:             Página para se cadastrar;
