@@ -5,9 +5,11 @@
   "author": "Wellerson",
   "license": "MIT",
   "private": true,
+  "homepage": ".",
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack-dev-server",
-    "build": "cross-env NODE_ENV=production yarn webpack"
+    "build": "cross-env NODE_ENV=production yarn webpack",
+    "publish:now": "yarn build && now dist/"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.2",
@@ -42,6 +44,7 @@
     "css-loader": "^5.0.1",
     "file-loader": "^6.2.0",
     "html-webpack-plugin": "^4.5.1",
+    "now": "^21.0.1",
     "react-refresh": "^0.9.0",
     "style-loader": "^2.0.0",
     "url-loader": "^4.1.1",

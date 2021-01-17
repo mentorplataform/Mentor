@@ -1,0 +1,15 @@
+{
+    "routes": [
+      { "src": "/", "dest": "/" },
+      { "src": "/login", "dest": "/" },
+      { "src": "/registrar", "dest": "/" },
+      { "src": "/cursos", "dest": "/" },
+      { "src": "/curso-confirmado", "dest": "/" },
+      { "src": "/informacao-curso", "dest": "/" },
+      { "src": "/inscricao-confirmada", "dest": "/" },
+      { "src": "/troca-item", "dest": "/" },
+      { "src": "/confirmar-troca", "dest": "/" },
+      { "src": "/perfil", "dest": "/" },
+      { "src": "/troca-confirmada", "dest": "/" }
+    ]
+  }
