@@ -4,10 +4,29 @@
 <p>
    <h1  align="center">Mentor</h1> 
 <p/>
+###Proposta
+Mentor é um aplicativo que conecta mentores e alunos, ambos remunerados por patrocinadores que queiram apoiar os cursos. Com esta plataforma de conduções educacionais, temos por
+finalidade auxiliar na democratização e valorização do estudo e promover acesso à educação de qualidade.
+
+###Propósito
+Nosso propósito é conectar pessoas para transformar o mundo por meio da aprendizagem pagando estes alunos e mentores.
+
+
+
+
+
 
 ### Desenvolvimento da plataforma
   Estamos usamos typescript/javascript no front-end e back-end, assim unindo uma só tecnologia para trabalharmos de forma rápida e acessivel com o time.
   Além disso estamos usando mongo como nosso banco de dados.
+  
+  ### Plano de desenvolvimento
+  Através do uso de tecnologias open-source desenvolveremos uma plataforma online responsiva utilizando para interface do usuárioReactJS, arquitetura back-end em NodeJs, para
+armazenamento das informações bancos de dadosNoSQL implementados através de MongoDB.Pretendemos pesquisar bibliotecas já existentes
+para desenvolvermos os algoritmos de pontuação
+e pesquisa, as funcionalidades de perguntas e
+respostas, a comunicação em vídeo interna ao
+aplicativo, sistemas de avaliação
   <br/>
   - Veja mais informação do [Website](https://github.com/mentorplataform/Mentor/blob/master/packages/web/)<br/>
   - Veja mais informação do [Server](https://github.com/mentorplataform/Mentor/blob/master/packages/server/)<br/>
