@@ -15,6 +15,7 @@ const CourseInfo = lazy(() => import('pages/CourseInfo' /* webpackChunkName: "Co
 const SubscriptionSuccessfully = lazy(() => import('pages/SubscriptionSuccessfully' /* webpackChunkName: "Subscription-successfully" */))
 const ExchangeItems = lazy(() => import('pages/ExchangeItems' /* webpackChunkName: "Subscription-successfully" */))
 const ConfirmationExchangePoints = lazy(() => import('pages/ConfirmationExchangePoints' /* webpackChunkName: "Confirmation-exchange-points" */))
+const Profile = lazy(() => import('pages/Profile' /* webpackChunkName: "profile" */))
 
 const router = () => {
 
@@ -40,6 +41,8 @@ const router = () => {
                                 <Route path="/inscricao-confirmada" component={SubscriptionSuccessfully} />
                                 <Route path="/troca-item" component={ExchangeItems} />
                                 <Route path="/confirmar-troca" component={ConfirmationExchangePoints} />
+                                <Route path="/perfil" component={Profile} />
+
                                 {/* <Route path="/register" component={Register} />
                                 <Route path="/forgot" component={Forgot} /> */}
                                 {/* <PrivateRouter path="/profile" component={Profile} />
