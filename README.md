@@ -11,6 +11,9 @@
   <br/>
   - Veja mais informação do [Website](https://github.com/mentorplataform/Mentor/blob/master/packages/web/)<br/>
   - Veja mais informação do [Server](https://github.com/mentorplataform/Mentor/blob/master/packages/server/)<br/>
+  
+### Apresentação
+  [Mentor plataform](https://github.com/mentorplataform/Mentor/blob/master/Mentor_-_Projeto.pdf)
 
 ### O que você precisa para rodar em sua máquina ? 
 - É necessario ter `Yarn` em sua máquina para baixar as dependencias. [Yarn](https://classic.yarnpkg.com/en/docs/install/)
