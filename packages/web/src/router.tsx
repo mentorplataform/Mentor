@@ -9,6 +9,7 @@ import { SnackbarProvider } from 'notistack';
 const Home = lazy(() => import('pages/Home' /* webpackChunkName: "Home" */))
 const Login = lazy(() => import('pages/Login' /* webpackChunkName: "Login" */))
 const Course = lazy(() => import('pages/Course' /* webpackChunkName: "Course" */))
+const CourseInfo = lazy(() => import('pages/CourseInfo' /* webpackChunkName: "Course-infomation" */))
 
 const router = () => {
 
@@ -28,6 +29,7 @@ const router = () => {
                                 <Route path="/" exact component={Home} />
                                 <Route path="/login" component={Login} />
                                 <Route path="/cursos" component={Course} />
+                                <Route path="/informacao-curso" component={CourseInfo} />
                                 {/* <Route path="/register" component={Register} />
                                 <Route path="/forgot" component={Forgot} /> */}
                                 {/* <PrivateRouter path="/profile" component={Profile} />
