@@ -18,8 +18,7 @@ Nosso propósito é conectar pessoas para transformar o mundo por meio da aprend
 
 
 ### Desenvolvimento da plataforma
-  Estamos usamos typescript/javascript no front-end e back-end, assim unindo uma só tecnologia para trabalharmos de forma rápida e acessivel com o time.
-  Além disso estamos usando mongo como nosso banco de dados.
+ Utilizamos typescript/javascript no front-end e back-end, assim unindo uma só tecnologia para trabalharmos de forma rápida e acessivel com o time e mongo como nosso banco de dados.
   
   ### Plano de desenvolvimento
   Através do uso de tecnologias open-source desenvolveremos uma plataforma online responsiva utilizando para interface do usuárioReactJS, arquitetura back-end em NodeJs, para
