@@ -3,21 +3,19 @@ import { SnackbarProvider, useSnackbar } from 'notistack';
 import styled from 'styled-components'
 import Footer from 'components/Footer'
 import Header from 'components/HeaderAuth'
-import Main from 'components/ExchangeItems/Main'
-import ProgressBarProfile from 'components/ProgressBarProfile'
+import Main from 'components/ConfirmedExchange/Main'
 
-const Register: React.FC = (props) => {
+const ConfirmationExchangePoints: React.FC = (props) => {
   return (
     <Container>
       <Header />
-      <ProgressBarProfile />
       <Main />
       <Footer />
     </Container>
   );
 }
 
-export default Register;
+export default ConfirmationExchangePoints;
 
 const Container = styled.div`
 
