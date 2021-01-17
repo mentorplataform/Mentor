@@ -10,6 +10,7 @@ const Header: React.FC = () => {
         <Menu>
             <a href="/">Home</a>
             <a href="/cursos">Cursos</a>
+            <a href="/Registrar">Registrar</a>
             <a href="/login">Login</a>
             <a href="/seja-um-parceiro">Seja um parceiro</a>
             <a href="/parceiros">Parceiros</a>
