@@ -116,9 +116,7 @@ const Aside = () => {
                             <FormControlLabel value="2" control={<Radio />} label="Quartas-feiras, 15h às 15h30" />
                             <FormControlLabel value="3" control={<Radio />} label="Quintas-feiras, 08h30 às 9h" />
                         </RadioGroup>
-                        <Button className={classes.btnSubmit}>
-                            Inscreva-se
-                </Button>
+                        <a href="/inscricao-confirmada"><Button className={classes.btnSubmit}>Inscreva-se</Button></a>
                     </Grid>
                     <Grid item md={4}>
                         <img width="100%" src={ImgStudent} alt="" />

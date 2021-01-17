@@ -17,7 +17,7 @@ const CourseInfo: React.FC = () => {
         <div>
           <div>Lorem ipsum dolor sit amet, consectetur </div>
           <div>Lorem ipsum dolor sit amet, consectetur </div>
-          <Button>Inscreva-se</Button>
+          <a href="/curso-confirmado"><Button>Inscreva-se</Button></a>
         </div>
         <Info>
           <div>

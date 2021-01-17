@@ -133,9 +133,9 @@ const Main = () => {
                             </Typography>
                         </Grid>
                         <Grid className={classes.elementCenter} item xs={6} sm={12} md={6}>
-                            <Button className={classes.btnSubmit}>
+                            <a href="/troca-confirmada"><Button className={classes.btnSubmit}>
                                 CONFIRMAR TROCA
-                        </Button>
+                        </Button></a>
                             <Typography component="p">
                                 Ao clicar em confirmar, você concorda com os nossos <b>termos de uso</b> de troca de pontos
                         </Typography>

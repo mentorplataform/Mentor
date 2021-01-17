@@ -57,9 +57,9 @@ const Main = () => {
                         <Typography component="p">
                             Tamanho Único
                         </Typography>
-                        <Button className={classes.btnSubmit}>
+                        <a href="/confirmar-troca"><Button className={classes.btnSubmit}>
                             Trocar pontos
-                        </Button>
+                        </Button></a>
                     </Grid>
                     <Grid item xs={12} sm={12} md={12}>
                         <hr />
