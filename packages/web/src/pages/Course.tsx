@@ -81,7 +81,7 @@ const TitleCategory = styled.div`
 
 const Tag = styled.div`
   width: 203px;
-  margin: 20px;
+  margin: 5px;
   height: 30px;
   background: rgba(254, 178, 34, 0.6);
   color: #2F2E41;
