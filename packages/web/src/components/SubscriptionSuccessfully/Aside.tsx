@@ -115,7 +115,7 @@ const Aside = () => {
                             Você receberá mais informações no e-mail ou em “meus cursos”
                 </Typography>
                     </Grid>
-                    <Grid className={classes.ImgTeacher} item md={4}>
+                    <Grid item md={4}>
                          <img width="100%" src={ImgTeacher} alt="" />
                     </Grid>
                 </Grid>
