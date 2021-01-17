@@ -2,7 +2,7 @@
    <img src="./images/MentorApp.png" height="200px" />
 </p>
 <p>
-   <h1  font color = "blue" align="center">Mentor</h1> </font>
+   <h1  align="center">Mentor</h1> 
 <p/>
 
 ### Mentor Plataform
