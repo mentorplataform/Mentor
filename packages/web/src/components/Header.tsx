@@ -8,6 +8,7 @@ const Header: React.FC = () => {
         <Img src={Logo} alt={"Logo"}/>
         <Title>Mentor</Title>
         <Menu>
+            <a href="/">Home</a>
             <a href="/cursos">Cursos</a>
             <a href="/login">Login</a>
             <a href="/seja-um-parceiro">Seja um parceiro</a>
