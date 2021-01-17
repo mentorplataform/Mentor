@@ -16,6 +16,7 @@ const Container = styled.div`
     width: 370px;
     height: 272px;
     margin: 20px;
+    cursor: pointer;
 `
 
 const Header = styled.div`
