@@ -16,32 +16,32 @@ const Profile: React.FC = () => {
                 <Item>
                     <ImgProduct src={Calc} alt="calculadora" />
                     <NameProduct>Calculadora 600 pontos</NameProduct>
-                    <ButtonProduct>TROCAR</ButtonProduct>
+                    <a href="/troca-item"><ButtonProduct>TROCAR</ButtonProduct></a>
                 </Item>
                 <Item>
                     <ImgProduct src={Powerbank} alt="Power-bank" />
                     <NameProduct>Powerbank 800 pontos</NameProduct>
-                    <ButtonProduct>TROCAR</ButtonProduct>
+                    <a href="/troca-item"><ButtonProduct>TROCAR</ButtonProduct></a>
                 </Item>
                 <Item>
                     <ImgProduct src={Bag} alt="mochila" />
                     <NameProduct>Mochila 1200 pontos</NameProduct>
-                    <ButtonProduct>TROCAR</ButtonProduct>
+                    <a href="/troca-item"><ButtonProduct>TROCAR</ButtonProduct></a>
                 </Item>
                 <Item>
                     <ImgProduct src={Calc} alt="calculadora" />
                     <NameProduct>Calculadora 600 pontos</NameProduct>
-                    <ButtonProduct>TROCAR</ButtonProduct>
+                    <a href="/troca-item"><ButtonProduct>TROCAR</ButtonProduct></a>
                 </Item>
                 <Item>
                     <ImgProduct src={Powerbank} alt="Power-bank" />
                     <NameProduct>Powerbank 800 pontos</NameProduct>
-                    <ButtonProduct>TROCAR</ButtonProduct>
+                    <a href="/troca-item"><ButtonProduct>TROCAR</ButtonProduct></a>
                 </Item>
                 <Item>
                     <ImgProduct src={Bag} alt="mochila" />
                     <NameProduct>Mochila 1200 pontos</NameProduct>
-                    <ButtonProduct>TROCAR</ButtonProduct>
+                    <a href="/troca-item"><ButtonProduct>TROCAR</ButtonProduct></a>
                 </Item>
             </Itens>
             <Footer/>
