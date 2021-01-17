@@ -12,7 +12,7 @@ const Course: React.FC = () => {
         <div>Cursos disponíveis na plataforma</div>
       </Banner>
       <Main>
-      <TitleCategory>Categorias</TitleCategory>
+        <TitleCategory>Categorias</TitleCategory>
         <Category>
           <Tag>FINANÇAS</Tag>
           <Tag>MATEMÁTICA</Tag>
@@ -24,15 +24,15 @@ const Course: React.FC = () => {
           <Tag>HISTÓRIA</Tag>
         </Category>
         <CardContainer>
-          <Card />
-          <Card />
-          <Card />
-          <Card />
-          <Card />
-          <Card />
+          <a href="informacao-curso"><Card /></a>
+          <a href="informacao-curso"><Card /></a>
+          <a href="informacao-curso"><Card /></a>
+          <a href="informacao-curso"><Card /></a>
+          <a href="informacao-curso"><Card /></a>
+          <a href="informacao-curso"><Card /></a>
         </CardContainer>
       </Main>
-      <Footer/>
+      <Footer />
     </Container>
   )
 }
