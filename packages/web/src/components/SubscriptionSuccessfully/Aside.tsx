@@ -13,7 +13,7 @@ import FormControl from '@material-ui/core/FormControl';
 import FormLabel from '@material-ui/core/FormLabel';
 import { relative } from 'path';
 
-import ImgStudent from '../../images/student.png';
+import ImgTeacher from '../../images/teacher.png';
 
 const useStyles = makeStyles((theme: Theme) =>
     createStyles({
@@ -109,19 +109,14 @@ const Aside = () => {
                 <Grid container spacing={3}>
                     <Grid item md={8}>
                         <Typography variant="subtitle1" className={classes.textHours}>
-                            Horários disponíveis
+                            Sua inscrição foi confirmada!
                 </Typography>
-                        <RadioGroup aria-label="gender" name="gender1">
-                            <FormControlLabel value="1" control={<Radio />} label="Quartas-feiras, 13h às 14h30" />
-                            <FormControlLabel value="2" control={<Radio />} label="Quartas-feiras, 15h às 15h30" />
-                            <FormControlLabel value="3" control={<Radio />} label="Quintas-feiras, 08h30 às 9h" />
-                        </RadioGroup>
-                        <Button className={classes.btnSubmit}>
-                            Inscreva-se
-                </Button>
+                        <Typography variant="p">
+                            Você receberá mais informações no e-mail ou em “meus cursos”
+                </Typography>
                     </Grid>
-                    <Grid item md={4}>
-                        <img width="100%" src={ImgStudent} alt="" />
+                    <Grid className={classes.ImgTeacher} item md={4}>
+                         <img width="100%" src={ImgTeacher} alt="" />
                     </Grid>
                 </Grid>
             </Box>
