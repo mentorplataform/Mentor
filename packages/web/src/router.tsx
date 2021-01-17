@@ -16,6 +16,7 @@ const SubscriptionSuccessfully = lazy(() => import('pages/SubscriptionSuccessful
 const ExchangeItems = lazy(() => import('pages/ExchangeItems' /* webpackChunkName: "Subscription-successfully" */))
 const ConfirmationExchangePoints = lazy(() => import('pages/ConfirmationExchangePoints' /* webpackChunkName: "Confirmation-exchange-points" */))
 const Profile = lazy(() => import('pages/Profile' /* webpackChunkName: "profile" */))
+const ConfirmedExchange = lazy(() => import('pages/ConfirmedExchange' /* webpackChunkName: "Confirmed-exchange" */))
 
 const router = () => {
 
@@ -42,7 +43,7 @@ const router = () => {
                                 <Route path="/troca-item" component={ExchangeItems} />
                                 <Route path="/confirmar-troca" component={ConfirmationExchangePoints} />
                                 <Route path="/perfil" component={Profile} />
-
+                                <Route path="/troca-confirmada" component={ConfirmedExchange} />
                                 {/* <Route path="/register" component={Register} />
                                 <Route path="/forgot" component={Forgot} /> */}
                                 {/* <PrivateRouter path="/profile" component={Profile} />
