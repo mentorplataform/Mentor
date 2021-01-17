@@ -12,7 +12,7 @@ const Aside: React.FC = () => {
             <div>Ganhe <b>ensinando</b></div>
             <div>A plataforma que conecta pessoas para transformar o mundo por meio da aprendizagem</div>
           </Title>
-          <Button>Cadastrar</Button>
+          <a href="/registrar"><Button>Cadastrar</Button></a>
         </div>
       </Left>
       <Right>
