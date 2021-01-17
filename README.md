@@ -2,15 +2,18 @@
    <img src="./images/MentorApp.png" height="200px" />
 </p>
 <p>
-   <h1 align="center">Mentor</h1>
+   <h1  align="center">Mentor</h1> 
 <p/>
 
-### Mentor Plataform
+### Desenvolvimento da plataforma
   Estamos usamos typescript/javascript no front-end e back-end, assim unindo uma só tecnologia para trabalharmos de forma rápida e acessivel com o time.
   Além disso estamos usando mongo como nosso banco de dados.
   <br/>
   - Veja mais informação do [Website](https://github.com/mentorplataform/Mentor/blob/master/packages/web/)<br/>
   - Veja mais informação do [Server](https://github.com/mentorplataform/Mentor/blob/master/packages/server/)<br/>
+  
+### Apresentação
+  [Mentor plataform](https://github.com/mentorplataform/Mentor/blob/master/Mentor_-_Projeto.pdf)
 
 ### O que você precisa para rodar em sua máquina ? 
 - É necessario ter `Yarn` em sua máquina para baixar as dependencias. [Yarn](https://classic.yarnpkg.com/en/docs/install/)
