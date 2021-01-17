@@ -9,13 +9,8 @@
 Mentor é um aplicativo que conecta mentores e alunos, ambos remunerados por patrocinadores que queiram apoiar os cursos. Com esta plataforma de conduções educacionais, temos por
 finalidade auxiliar na democratização e valorização do estudo e promover acesso à educação de qualidade.
 
-<img src="C:\Users\Administrador\Documents\hackathon\proposito.png" height="150" widht="150">
+<img src="file:///C:/Users/Administrador/Documents/hackathon/proposito.png" height="150" widht="150">
 Nosso propósito é conectar pessoas para transformar o mundo por meio da aprendizagem pagando estes alunos e mentores.
-
-
-
-
-
 
 ### 3. Desenvolvimento da plataforma
  Utilizamos typescript/javascript no front-end e back-end, assim unindo uma só tecnologia para trabalharmos de forma rápida e acessivel com o time e mongo como nosso banco de dados.
