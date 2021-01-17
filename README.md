@@ -26,27 +26,22 @@ aplicativo, sistemas de avaliação
   - Veja mais informação do [Website](https://github.com/mentorplataform/Mentor/blob/master/packages/web/)<br/>
   - Veja mais informação do [Server](https://github.com/mentorplataform/Mentor/blob/master/packages/server/)<br/>
   
-### Apresentação
+### 3.2 Link da solução
   [Mentor plataform](https://github.com/mentorplataform/Mentor/blob/master/Mentor_-_Projeto.pdf)
 
-### O que você precisa para rodar em sua máquina ? 
+### 3.3 Instruções 
 - É necessario ter `Yarn` em sua máquina para baixar as dependencias. [Yarn](https://classic.yarnpkg.com/en/docs/install/)
 - Precisamos do `NodeJs` para rodar o servidor. [NodeJs](https://nodejs.org/en/download/)
 - (Opcional) Se quiser baixar o `Mongodb` em sua máquina. [Mongodb](https://docs.mongodb.com/manual/administration/install-community/)
 
-### Baixando o projeto em sua máquina
+Baixando o projeto em sua máquina
 
 - Para clonar o projeto rode esse comando: `git clone https://github.com/mentorplataform/Mentor.git`
 - Entre na pasta: `cd Mentor/`
 - Instalar todas as depedencias: `yarn install`
 - Depois de instalar as depencias tode `yarn start` no diretorio padrão.
 
-### Feedbacks
-
-Para mandar algum feedback, basta enviar para esse email [aplic.mentor@gmail.com](aplic.mentor@gmail.com)<br/>
-
-
-### Tecnologias usadas
+3.4 Tecnologias usadas
 
 [ReactJS](https://reactjs.org/)<br/>
 [KoaJS](https://koajs.com/)<br/>
@@ -56,3 +51,10 @@ Para mandar algum feedback, basta enviar para esse email [aplic.mentor@gmail.com
 [Styled-Components](https://www.styled-components.com/)<br/>
 [Material-UI](https://material-ui.com/)<br/>
 [NodeJS](https://nodejs.org/en/)<br/>
+
+
+### 4.0 Feedbacks
+
+Para mandar algum feedback, basta enviar para esse email [aplic.mentor@gmail.com](aplic.mentor@gmail.com)<br/>
+
+
