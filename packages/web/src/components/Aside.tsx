@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components'
+import Powerful from './../images/Powerful.svg'
 
 const Aside: React.FC = () => {
   return (
@@ -15,7 +16,7 @@ const Aside: React.FC = () => {
         </div>
       </Left>
       <Right>
-        <Img>Img</Img>
+        <Img src={Powerful} alt={"Powerful"} />
       </Right>
     </Container>
   )
@@ -33,12 +34,12 @@ const Container = styled.aside`
 
 `
 
-const Img = styled.div`
-  background-color: #C4C4C4;
-  height: 441px;
-  width:470px; 
+const Img = styled.img`
+  height: 641px;
+  width: 670px; 
   text-align: center;
   align-items: center;
+  opacity: 0.8;
 `
 
 const Left = styled.div`
@@ -51,8 +52,9 @@ const Left = styled.div`
 
 const Right = styled.div`
   flex: 1;
+  height: 100%;
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: center;
 `
 
