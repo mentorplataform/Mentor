@@ -1,9 +1,9 @@
-import React from 'react'
-import Router from './router'
+import React from 'react';
+import Login from './components/Login';
 
 const App: React.FC = () => {
   return (
-    <Router />
+    <Login />
   )
 }
 
