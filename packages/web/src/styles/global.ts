@@ -17,7 +17,7 @@ export default createGlobalStyle`
     -webkit-font-smoothing: antialiased !important;
   }
   body, input, textarea {
-    font-family: 'Source Sans Pro', sans-serif !important;
+    font-family: 'Rubik', sans-serif !important;
     font-size: 16px;
   }
   a, button {
