@@ -3,9 +3,7 @@ import styled from 'styled-components'
 
 const Footer: React.FC = () => {
   return (
-      <Container>
-          footer
-      </Container>
+      <Container/>
   )
 }
 
