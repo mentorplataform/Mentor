@@ -27,7 +27,7 @@ aplicativo, sistemas de avaliação
   - Veja mais informação do [Server](https://github.com/mentorplataform/Mentor/blob/master/packages/server/)<br/>
   
 ### 3.2 Link da solução
-  [Mentor plataform](https://github.com/mentorplataform/Mentor/blob/master/Mentor_-_Projeto.pdf)
+   - [Mentor plataform](https://github.com/mentorplataform/Mentor/blob/master/Mentor_-_Projeto.pdf)
 
 ### 3.3 Instruções 
 - É necessario ter `Yarn` em sua máquina para baixar as dependencias. [Yarn](https://classic.yarnpkg.com/en/docs/install/)
@@ -43,14 +43,14 @@ Baixando o projeto em sua máquina
 
 3.4 Tecnologias usadas
 
-[ReactJS](https://reactjs.org/)<br/>
-[KoaJS](https://koajs.com/)<br/>
-[MongoDB](https://www.mongodb.com/)<br/>
-[Yarn](https://yarnpkg.com/en/)<br/>
-[WorkSpaces](https://yarnpkg.com/lang/en/docs/workspaces/)<br/>
-[Styled-Components](https://www.styled-components.com/)<br/>
-[Material-UI](https://material-ui.com/)<br/>
-[NodeJS](https://nodejs.org/en/)<br/>
+ - [ReactJS](https://reactjs.org/)<br/>
+ - [KoaJS](https://koajs.com/)<br/>
+ - [MongoDB](https://www.mongodb.com/)<br/>
+ - [Yarn](https://yarnpkg.com/en/)<br/>
+ - [WorkSpaces](https://yarnpkg.com/lang/en/docs/workspaces/)<br/>
+ - [Styled-Components](https://www.styled-components.com/)<br/>
+ - [Material-UI](https://material-ui.com/)<br/>
+ - [NodeJS](https://nodejs.org/en/)<br/>
 
 
 ### 4.0 Feedbacks
