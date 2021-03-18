@@ -52,9 +52,6 @@ Baixando o projeto em sua máquina
  - [Material-UI](https://material-ui.com/)<br/>
  - [NodeJS](https://nodejs.org/en/)<br/>
 
-
 ### 4.0 Feedbacks
 
 Para mandar algum feedback, basta enviar para esse email [aplic.mentor@gmail.com](aplic.mentor@gmail.com)<br/>
-
-
